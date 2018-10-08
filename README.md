@@ -1,4 +1,4 @@
-# CSALÁDI BÜDZSÉ APP 
+# CSALÁDI BÜDZSÉ APP :sparkles:
 
 _(Az alkalmazas egy csalad penzugyeit tudja kezelni.)_
 
