@@ -1,4 +1,4 @@
-# CSALÁDI BÜDZSÉ APP :sparkles:
+# CSALÁDI BÜDZSÉ APP :moneybag:
 
 _(Az alkalmazas egy csalad penzugyeit tudja kezelni.)_
 
@@ -8,7 +8,7 @@ _(Az alkalmazas egy csalad penzugyeit tudja kezelni.)_
 ## Követelmények:
 
 - funkcionális:
-  - lehessen regisztrálni és bejelentkezni
+  - lehessen regisztrálni és bejelentkezni, különböző szerepkörönként
   - lehessen tagokat hozzáadni/törölni/szerkeszteni a családhoz
   - lehessen termékenként/családtagonként listázni
   - lehessen a kiadásokat/keresetet hozzáadni/törölni/szerkeszteni. 
@@ -26,5 +26,8 @@ _(Az alkalmazas egy csalad penzugyeit tudja kezelni.)_
 
 ## Szerepkörök:
 
-- családfő: mindent lát mindenhez hozzáfér.(admin) 
-- családtag: csak a sajátját látja és sajátját kezeli.
+- családfő/admin:
+  - látja az összes felhasználó bevételeit és kiadásait
+  - tudja módosítani az összes felhasználó bevételeit és kiadásait
+  - hozzáadhat új felhasználókat, szerepköröket és kategóriákat
+- családtag: csak a sajátját látja és sajátját kezeli. (felhasználó)
