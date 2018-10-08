@@ -2,7 +2,6 @@
 
 - Az alkalmazás egy család pénzügyeit tudja kezelni.
 - A bevételek és kiadások összességét lehet kezelni az alkalmazásban katagóriák szerint minden családtag számára.
- - Kategóriák pl.
   - bevétel: fizetés, zsebpénz, ajándék...
   - kiadás: élelmiszer, ruha, nyaralás, autó, egészség, háztartás, oktatás, sport, bevásárlás, közlekedés, rezsi, lakbér...
 
@@ -28,12 +27,12 @@
 ## Szerepkörök:
 
 - családfő/admin:
- - látja az összes felhasználó bevételeit és kiadásait
- - tudja módosítani az összes felhasználó bevételeit és kiadásait
- - hozzáadhat új szerepköröket és kategóriákat
+  - látja az összes felhasználó bevételeit és kiadásait
+  - tudja módosítani az összes felhasználó bevételeit és kiadásait
+  - hozzáadhat új szerepköröket és kategóriákat
 - családtag/felhasználó:
- - látja a saját bevételeit és kiadásait
- - módosíthatja a saját bevételeit és kiadásait
- - a többi felhasználó bevételeit és kiadásait nem láthatja és nem módosíthatja
- - nem adhat hozzá kategóriákat, szerepköröket
+  - látja a saját bevételeit és kiadásait
+  - módosíthatja a saját bevételeit és kiadásait
+  - a többi felhasználó bevételeit és kiadásait nem láthatja és nem módosíthatja
+  - nem adhat hozzá kategóriákat, szerepköröket
  
