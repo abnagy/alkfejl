@@ -18,5 +18,5 @@ szakfogalmak:
   -családi kiadás/kereset: egész család összesített kiadása/keresete
   -egyéni kiadás/kereset:  egyén összesített kiadása/keresete
 szerepkörök:
-  -családfő: mindent lát mindenhez hozzáfér.
+  -családfő: mindent lát mindenhez hozzáfér.(admin) 
   -családtag: csak a sajátját látja és sajátját kezeli.
